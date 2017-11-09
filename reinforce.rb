@@ -12,5 +12,5 @@ p house.keys.class
 #What is the data type of the value that goes with the last key?
 p house.keys.last.class
 #How many representatives are there in this collection?
-
+p house["objects"].count
 #Get the URL for the photo of one representative into a variable.
